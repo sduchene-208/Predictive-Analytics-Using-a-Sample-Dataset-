@@ -1,2 +1,2 @@
 # Predictive Analytics Using a Sample Dataset
-The attached report will detail a series of statistical operations utilized to make predictions. 
+The main purpose for this report is to determine whether or not a selection of independent variables can accurately predict the likelihood of customer churn rate as well as customer income. 
